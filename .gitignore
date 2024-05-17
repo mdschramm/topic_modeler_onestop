@@ -1,0 +1,6 @@
+*.pkl
+octis/
+*.png
+results/
+preprocessed_onestop/
+.DS_Store
